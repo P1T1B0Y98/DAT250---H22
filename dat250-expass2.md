@@ -37,7 +37,8 @@ I had some trouble getting the test case to run. However after a while I made it
 
 And here are the tables: 
 
-<img width="904" alt="Skjermbilde 2022-09-09 kl  17 30 38" src="https://user-images.githubusercontent.com/90247464/189387286-699c6294-7e40-431f-b590-d62a892a9b16.png">
+<img width="824" alt="Skjermbilde 2022-09-09 kl  17 31 57" src="https://user-images.githubusercontent.com/90247464/189705610-e9188ce4-9c16-4529-a4c1-d99f8951191a.png">
+
 
 ## Pending Issues
 None that I can find. 
