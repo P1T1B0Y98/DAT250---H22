@@ -5,9 +5,11 @@ MongoDB before performing some CRUD-operations on the database.
 ## Installation
 
 Installation:
+
 <img width="1440" alt="Installasjon" src="https://user-images.githubusercontent.com/90247464/190591961-41649b9c-a440-4e3b-9efd-e1a715dad475.png">
 
 Validation: 
+
 <img width="723" alt="Nøkkel og installasjon" src="https://user-images.githubusercontent.com/90247464/190592126-6447056a-655e-4a33-831c-ecfbf31463ba.png">
 
 ## Experiment 1 - MongoDB Crud Operations
