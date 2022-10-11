@@ -29,16 +29,16 @@ To try this on your computer you must do the following:
 
 A few screenshots from the SPA: 
 
-**Initial page:**    
+**Initial page:**<br/>    
 <img width="1440" alt="Skjermbilde 2022-10-11 kl  12 17 07" src="https://user-images.githubusercontent.com/90247464/195064612-06e8c131-26f5-413d-b38b-3dc2fd0f510c.png">
 
 
-**Display todos:**
+**Display todos:**<br/>
 Click the "todos" button and the SPA displays all curent todos in a table. HTTP GET. Initially there are no todos so we get the following:    
 <img width="1440" alt="Skjermbilde 2022-10-11 kl  12 15 38" src="https://user-images.githubusercontent.com/90247464/195065112-a90a7cd1-f076-4884-8b98-8d21b020105d.png">
 
 
-**Add todos:**
+**Add todos:**<br/>
 Fill in the input fields and click add. This adds the todo to the todolist if both "summary" and "description" is filled out. This is an HTTP POST.    
 <img width="1440" alt="Skjermbilde 2022-10-11 kl  12 15 55" src="https://user-images.githubusercontent.com/90247464/195065383-fbeb9f3b-6b07-4073-ad1c-b39fcab19411.png">
 
@@ -50,14 +50,14 @@ This button should be clicked after adding an todo such that it is displayed in 
 **Delete todos:**     
 This button when clicked deletes a todo from the list and the table.     
 
-## Techincal issues before and after    
+## Techincal issues before and after <br/>   
 There are currently no technical issues. I spent some time learning Angular by doing an Angular crash course tutorial before doing this assignment to better understand how it works. Therefore, I did not run into a lot of problems.     
 
-##
+## Code
 
-[Link to Todo repo](https://github.com/P1T1B0Y98/dat250-sparkjava-counter). 
-[Link to SPA](https://github.com/P1T1B0Y98/Experiment6-SPA). 
-[Link to first assignment](https://github.com/P1T1B0Y98/Experiment6.1). 
+[Link to Todo repo](https://github.com/P1T1B0Y98/dat250-sparkjava-counter). <br/>
+[Link to SPA](https://github.com/P1T1B0Y98/Experiment6-SPA). <br/>
+[Link to first assignment](https://github.com/P1T1B0Y98/Experiment6.1). <br/> 
 
 
 
