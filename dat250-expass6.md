@@ -19,13 +19,13 @@ The application should also use the Rest-API developed for Todos and be able to:
 
 To try this on your computer you must do the following: 
 
-    1. Clone the following [repo](https://github.com/P1T1B0Y98/dat250-sparkjava-counter) into an IDE of your choice. This contains the Todolist 
+   1. Clone the following [repo](https://github.com/P1T1B0Y98/dat250-sparkjava-counter) into an IDE of your choice. This contains the Todolist 
      operations and the Rest-API for Todos. 
-    2. Switch to the test branch and run the TodoAPI found in the src folder. 
-    3. Clone and open the following [repo](https://github.com/P1T1B0Y98/Experiment6-SPA) into an IDE of your choice. This is the SPA for the Todos made
+   2. Switch to the test branch and run the TodoAPI found in the src folder. 
+   3. Clone and open the following [repo](https://github.com/P1T1B0Y98/Experiment6-SPA) into an IDE of your choice. This is the SPA for the Todos made
      with Angualar. 
-    4. Open a new terminal window and find the directory for the SPA application and run 'ng serve'.
-    5. Navigate to http://localhost:4200 to see the SPA. 
+   4. Open a new terminal window and find the directory for the SPA application and run 'ng serve'.
+   5. Navigate to http://localhost:4200 to see the SPA. 
 
 A few screenshots from the SPA: 
 
