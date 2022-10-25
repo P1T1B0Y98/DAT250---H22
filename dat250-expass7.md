@@ -59,3 +59,5 @@ Completed [this tutorial](https://www.rabbitmq.com/tutorials/tutorial-three-java
 
 Had some minor issues with RabbitMQ but those were quickly resolved and there is as of right now no pending issues. 
 
+Linkk to code for [assignment 2-4 can be found here](https://github.com/P1T1B0Y98/ExpAssignment7)
+
